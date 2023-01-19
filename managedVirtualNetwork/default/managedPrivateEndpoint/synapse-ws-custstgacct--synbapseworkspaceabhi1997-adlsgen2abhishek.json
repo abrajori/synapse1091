@@ -1,0 +1,7 @@
+{
+	"name": "synapse-ws-custstgacct--synbapseworkspaceabhi1997-adlsgen2abhishek",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/556a4f3f-3102-4788-9ea3-6c3fc2fe8993/resourceGroups/Day03RG/providers/Microsoft.Storage/storageAccounts/adlsgen2abhishek",
+		"groupId": "dfs"
+	}
+}

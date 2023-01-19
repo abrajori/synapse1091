@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sql--synbapseworkspaceabhi1997",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/556a4f3f-3102-4788-9ea3-6c3fc2fe8993/resourceGroups/Day03RG/providers/Microsoft.Synapse/workspaces/synbapseworkspaceabhi1997",
+		"groupId": "sql",
+		"fqdns": [
+			"synbapseworkspaceabhi1997.a9728d9b-a013-42f8-b5f6-f1ac772348a9.sql.azuresynapse.net"
+		]
+	}
+}
